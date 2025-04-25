@@ -11,8 +11,5 @@
 * [22K Ohm Resistor](https://www.aliexpress.com/item/1005007345052730.html)
 * [1n4148 Diode](https://www.aliexpress.com/item/1005006245109375.html)
 
-## Instructions
-* 
-
 ## Sources
 https://xbox360hub.com/guides/rgh-3-guide/
