@@ -19,4 +19,4 @@ No matter what method of modding you use, you should download these onto a USB
 * [Horizon](https://www.wemod.com/horizon) Modding tool to modify save data, unlock achievements, etc
 * [XBDM](https://digiex.net/threads/xbox-360-jtag-xbdm-download.9243/) A DashLaunch plugin that adds some Development Kit functions, needed for Xbox 360 SDK to work
 * [Xbox 360 SDK](https://www.mediafire.com/file/l9786i9endh5w5e/XBOX360_SDK_21256.3.exe/file) Gives you some remote access (like Xbox 360 Neighborhood)
-* [Proto](https://xbox360hub.com/xbox-live-stealth/) Free Xbox Live Stealth client to connect to Xbox Live without getting banned (there is still a risk)
+* [Proto](https://xbox360hub.com/xbox-live-stealth/) A DashLaunch plugin, free Xbox Live Stealth client to connect to Xbox Live without getting banned (there is still a risk)
