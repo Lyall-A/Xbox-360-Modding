@@ -5,9 +5,9 @@
 * [Bad Update](./Bad%20Update.md) Non-persistent exploit using a USB
 
 ## Apps
-No matter what method of modding you use, you should download these onto a USB
+You should download all these onto a USB
 * [Aurora](http://phoenix.xboxunity.net) Pretty custom dashboard
-* [DashLaunch](https://digiex.net/threads/dash-launch-3-21-for-jtag-rgh-xbox-360s-running-freeboot.11024/) Used to run the custom dashboard (Aurora) and apply some general tweaks on startup, such as custom boot animations and disabling Xbox Live
+* [DashLaunch](https://digiex.net/threads/dash-launch-3-21-for-jtag-rgh-xbox-360s-running-freeboot.11024/) Used to run the custom dashboard (Aurora) and apply some general tweaks on startup, such as custom boot animations, disabling Xbox Live and running plugins. Do NOT install this to your NAND if using BadUpdate, it will brick your console
 * [XeXMenu](https://digiex.net/threads/xexmenu-1-1-download-xex-menu-iso-live-and-xex-file-manager-for-xbox-360.11096/) File manager and basic dashboard, mainly used during the setup process
 
 ## Useful links
