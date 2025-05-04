@@ -14,3 +14,9 @@ No matter what method of modding you use, you should download these onto a USB
 * [Myrient](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/) Game redumps, get your games here (or Internet Archive)
 * [XM360](https://digiex.net/threads/xm360-2-0d-download-xbox-360-jtag-xbla-dlc-tu-content-organiser.7999/) Useful for unlocking XBLA games and DLC's (however this should be possible through Aurora and DashLaunch)
 * [Iso2God](https://github.com/r4dius/Iso2God) Convert ISO files to GoD (Game on Demand), makes games compatible with stock dashboard and generally more reliable
+* [UsbdSecPatch](https://github.com/InvoxiPlayGames/UsbdSecPatch) A DashLaunch plugin that bypasses authentication checks for devices (such as controllers), will be needed for OGX-Mini
+* [OGX-Mini](https://github.com/wiredopposite/OGX-Mini) Raspberry Pi Pico firmware to use ANY controller, a ESP32 can also be added for bluetooth functionality
+* [Horizon](https://www.wemod.com/horizon) Modding tool to modify save data, unlock achievements, etc
+* [XBDM](https://digiex.net/threads/xbox-360-jtag-xbdm-download.9243/) A DashLaunch plugin that adds some Development Kit functions, needed for Xbox 360 SDK to work
+* [Xbox 360 SDK](https://www.mediafire.com/file/l9786i9endh5w5e/XBOX360_SDK_21256.3.exe/file) Gives you some remote access (like Xbox 360 Neighborhood)
+* [Proto](https://xbox360hub.com/xbox-live-stealth/) Free Xbox Live Stealth client to connect to Xbox Live without getting banned (there is still a risk)
