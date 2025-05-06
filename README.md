@@ -24,3 +24,4 @@ You should download all these onto a USB
 * [Original Xbox emulator](https://fatxplorer.eaton-works.com/restoring-original-xbox-backwards-compatibility/) For installing either an original or modded OG Xbox for backwards compatibility
 * [XellLaunch](https://digiex.net/threads/xell-launch-with-xell-reloaded-hdmi-support-and-a-quickboot-shortcut-download.9158/) An older version of the XellLaunch that is bundled with DashLaunch, I couldn't get Ubuntu to run with the newer version
 * [Ubuntu Xenon](https://sourceforge.net/projects/free60/files/liveCDs/) A Linux distro based on Ubuntu 10.10 for the Xbox 360
+* [extract-xios](https://github.com/XboxDev/extract-xiso) For extracting .iso files (useful for extracting install disks)
