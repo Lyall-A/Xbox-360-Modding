@@ -22,3 +22,5 @@ You should download all these onto a USB
 * [Proto](https://xbox360hub.com/xbox-live-stealth/) A DashLaunch plugin, free Xbox Live Stealth client to connect to Xbox Live without getting banned (there is still a risk)
 * [FATXplorer](https://fatxplorer.eaton-works.com/download/) Useful for mounting and formatting Xbox 360 HDD's
 * [Original Xbox emulator](https://fatxplorer.eaton-works.com/restoring-original-xbox-backwards-compatibility/) For installing either an original or modded OG Xbox for backwards compatibility
+* [XellLaunch](https://digiex.net/threads/xell-launch-with-xell-reloaded-hdmi-support-and-a-quickboot-shortcut-download.9158/) An older version of the XellLaunch that is bundled with DashLaunch, I couldn't get Ubuntu to run with the newer version
+* [Ubuntu Xenon](https://sourceforge.net/projects/free60/files/liveCDs/) A Linux distro based on Ubuntu 10.10 for the Xbox 360
