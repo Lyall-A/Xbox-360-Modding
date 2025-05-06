@@ -20,3 +20,5 @@ You should download all these onto a USB
 * [XBDM](https://digiex.net/threads/xbox-360-jtag-xbdm-download.9243/) A DashLaunch plugin that adds some Development Kit functions, needed for Xbox 360 SDK to work
 * [Xbox 360 SDK](https://www.mediafire.com/file/l9786i9endh5w5e/XBOX360_SDK_21256.3.exe/file) Gives you some remote access (like Xbox 360 Neighborhood)
 * [Proto](https://xbox360hub.com/xbox-live-stealth/) A DashLaunch plugin, free Xbox Live Stealth client to connect to Xbox Live without getting banned (there is still a risk)
+* [FATXplorer](https://fatxplorer.eaton-works.com/download/) Useful for mounting and formatting Xbox 360 HDD's
+* [Original Xbox emulator](https://fatxplorer.eaton-works.com/restoring-original-xbox-backwards-compatibility/) For installing either an original or modded OG Xbox for backwards compatibility
