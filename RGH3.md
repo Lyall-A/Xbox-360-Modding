@@ -54,11 +54,11 @@ Instead of using a flasher we can also use Bad Update to get our CPU Key, dump o
 
 1. Download [Simple 360 NAND Flasher](https://www.consolemods.org/wiki/File:Simple_360_NAND_Flasher.7z) and put it on your USB alongside [Bad Update](./Bad%20Update.md)
 2. Launch Simple 360 NAND Flasher, press X to dump your NAND
-3. Plug the USB into your computer and add the dump to J-Runner, your CPU Key should also be added from the cpukey.txt file
+3. Plug the USB into your computer and add the dump (`flashdmp.bin`) to J-Runner, your CPU Key should also be added from the `cpukey.txt` file
 4. Under XeBuild, select `Glitch`, `RGH3` and `10` MHz
 5. Press `Create XeBuild` and copy the output bin file to your USB named `updflash.bin`
-6. In Simple 360 NAND Flasher, press A and START to flash your NAND. Your Xbox will know be bricked until the RGH3 mod is installed
-7. Solder the RGH 3 mod
+6. In Simple 360 NAND Flasher, press A and START to flash your NAND. Your Xbox will now be bricked until the RGH3 mod is installed
+7. Solder the RGH3 mod
 
 ![Bottom points](./Images/RGH3%20Points.jpg)
 
