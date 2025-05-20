@@ -12,6 +12,7 @@ You should download all these onto a USB
 
 ## Useful links
 * [Myrient](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/) Game redumps, get your games here (or Internet Archive)
+* [Xbox 360 Hub](https://xbox360hub.com/guides/) RGH guides, Schematics and Boardview's
 * [XM360](https://digiex.net/threads/xm360-2-0d-download-xbox-360-jtag-xbla-dlc-tu-content-organiser.7999/) Useful for unlocking XBLA games and DLC's (however this should be possible through Aurora and DashLaunch)
 * [Iso2God](https://github.com/r4dius/Iso2God) Convert ISO files to GoD (Game on Demand), makes games compatible with stock dashboard and generally more reliable
 * [UsbdSecPatch](https://github.com/InvoxiPlayGames/UsbdSecPatch) A DashLaunch plugin that bypasses authentication checks for devices (such as controllers), will be needed for OGX-Mini
