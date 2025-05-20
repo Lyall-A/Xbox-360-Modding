@@ -32,7 +32,7 @@ Connect the flasher with this diagram
 With the flasher setup, we can dump our NAND to create a backup and flash XeLL to get our CPU Key
 1. With J-Runner open, give your Xbox power (do not turn it on) and connect your flasher to your computer
 2. Press `Read Nand` and make sure you get 2 dumps that are the same
-3. Under the XeBuild section, make sure your console is correctly recognised and that the latest kernel is select. Select `Glitch2`, `RGH` and set MHz to `10` (try `27` if it doesn't work)
+3. Under the XeBuild section, make sure your console is correctly recognised and that the latest kernel is selected. Select `Glitch2`, `RGH` and set MHz to `10` (try `27` if it doesn't work)
 4. Press `Create XeLL` to create our XeLL image then `Write XeLL` to flash our XeLL image
 
 #### Soldering the RGH3 mod
