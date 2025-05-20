@@ -27,3 +27,4 @@ You should download all these onto a USB
 * [Ubuntu Xenon](https://sourceforge.net/projects/free60/files/liveCDs/) A Linux distro based on Ubuntu 10.10 for the Xbox 360
 * [extract-xiso](https://github.com/XboxDev/extract-xiso) For extracting .iso files (useful for extracting install disks)
 * [Simple 360 NAND Flasher](https://www.consolemods.org/wiki/File:Simple_360_NAND_Flasher.7z) For dumping/writing NAND from the Xbox itself
+* [Freestyle Dash](https://consolemods.org/wiki/File:Fsd3.zip) An older custom dashboard
