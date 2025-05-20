@@ -21,9 +21,11 @@ This uses a [Raspberry Pi Pico](https://www.aliexpress.com/item/1005007359981489
 1. Hold down BOOTSEL while plugging the Pico into your computer and copy the [PicoFlasher](https://github.com/X360Tools/PicoFlasher/releases).uf2 file to the Pico
 
 2. Solder the Pico using this diagram:
+
 ![PicoFlasher Points](./Images/PicoFlasher%20Points.png)
 #### Using other flashers
 Connect the flasher with this diagram
+
 ![Flasher Points](./Images/Flasher%20Points.jpg)
 
 #### Dumping our NAND and flashing XeLL
@@ -35,6 +37,7 @@ With the flasher setup, we can dump our NAND to create a backup and flash XeLL t
 
 #### Soldering the RGH3 mod
 Disconnect the Xbox from power and disconnect the flasher from your computer
+
 ![Bottom points](./Images/RGH3%20Points.jpg)
 
 #### Getting the CPU Key
@@ -56,6 +59,7 @@ Instead of using a flasher we can also use BadUpdate to get our CPU Key, dump ou
 5. Press `Create XeBuild` and copy the output bin file to your USB named `updflash.bin`
 6. In Simple 360 NAND Flasher, press A and START to flash your NAND. Your Xbox will know be bricked until the RGH3 mod is installed
 7. Solder the RGH 3 mod
+
 ![Bottom points](./Images/RGH3%20Points.jpg)
 
 ## Sources
