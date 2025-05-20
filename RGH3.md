@@ -1,4 +1,4 @@
-# RGH3 (TODO)
+# RGH3
 > NOTE: this is for fat motherboards, it is a little different for slim (see source)
 RGH3 is a permanent mod using only 2 wires and a hacked NAND
 
