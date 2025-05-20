@@ -49,10 +49,10 @@ We can now turn on our Xbox and should boot into XeLL where we can get our CPU K
 
 Unplug the flasher from your computer and attempt to turn the Xbox on, if everythings went well it should boot in less than 5 seconds
 
-### RGH3 with BadUpdate and Simple 360 NAND Flasher (risky)
-Instead of using a flasher we can also use BadUpdate to get our CPU Key, dump our NAND and flash our NAND. Flashing the NAND WILL brick your Xbox until the RGH3 mod is installed
+### RGH3 with Bad Update and Simple 360 NAND Flasher (risky)
+Instead of using a flasher we can also use Bad Update to get our CPU Key, dump our NAND and flash our NAND. Flashing the NAND WILL brick your Xbox until the RGH3 mod is installed
 
-1. Download [Simple 360 NAND Flasher](https://www.consolemods.org/wiki/File:Simple_360_NAND_Flasher.7z) and put it on your USB alongside BadUpdate
+1. Download [Simple 360 NAND Flasher](https://www.consolemods.org/wiki/File:Simple_360_NAND_Flasher.7z) and put it on your USB alongside [Bad Update](./Bad%20Update.md)
 2. Launch Simple 360 NAND Flasher, press X to dump your NAND
 3. Plug the USB into your computer and add the dump to J-Runner, your CPU Key should also be added from the cpukey.txt file
 4. Under XeBuild, select `Glitch`, `RGH3` and `10` MHz
